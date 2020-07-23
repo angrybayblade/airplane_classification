@@ -38,6 +38,8 @@ for example
 python3 predict.py ./images/000002.jpg
 ```
 
+> To train the model copy data in current folder and train the model using the CNN + DepthwiseConv .ipynb. 
+
 **This repo was trained and tested on following environment**
 
 + Python 3.8
